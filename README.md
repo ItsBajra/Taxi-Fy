@@ -4,6 +4,7 @@ Used customtkinter for the GUI, tkintermapview for the Map Integration API, geop
 Some GUI pictures:
 
 Passenger Sign IN GUI:
+
 ![image](https://github.com/ItsBajra/Taxi-Fy/assets/65555875/195a8bd3-8728-44b6-a456-32788d0fd3ea)
 
 Passenger's Dashboard GUI:
