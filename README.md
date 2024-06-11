@@ -1,5 +1,6 @@
 > [!IMPORTANT]
 > READ THE IMPORTANT NOTE FIRST
+
 > [!NOTE]
 > Used customtkinter for the GUI, tkintermapview for the Map Integration API, geopy module for calculating distance and many more.
 <br/>
