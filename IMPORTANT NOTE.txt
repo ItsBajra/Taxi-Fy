@@ -1,0 +1,18 @@
+Please install the required libraries and execute the main.sql queries then run the main.py file.
+
+Database info implemented: (can be changed simply in dbconnection.py)
+host='localhost',
+username='root',
+password='2216044',
+database='Assignment2'
+
+Please install the following libraries:
+
+pip install customtkinter
+pip install geocoder
+pip install tkintermapview
+pip install pillow
+pip install geopy
+pip install tkTimePicker
+pip install CTkTable
+pip install mysql-connector-python
