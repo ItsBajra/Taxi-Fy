@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> READ THE IMPORTANT NOTE FIRST
+> READ 'IMPORTANT NOTE.txt' 
 
 > [!NOTE]
 > Used customtkinter for the GUI, tkintermapview for the Map Integration API, geopy module for calculating distance and many more.
